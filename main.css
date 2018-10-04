@@ -37,3 +37,11 @@ input {
 button {
   border-radius: 6px;
 }
+
+.resultSection {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
